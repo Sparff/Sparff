@@ -15,7 +15,9 @@
    
    <h1 align="center">Do you want to contact with me? <img src="https://i.imgur.com/hg1rfr1.png" alt="cap" style="height:35px; text-align:center;"></h1>
    <p align="center">
-      The less you know, the longer you live.
+      <a target="_blank" href=""https://discord.com/users/951186023507963945">
+      <img src="https://i.imgur.com/CKJhTYg.png" alt="discord-icon" style="height:40px">
+</a>
    </p>
    
 </p>

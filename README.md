@@ -16,10 +16,10 @@
    <h1 align="center">Do you want to contact with me? <img src="https://i.imgur.com/hg1rfr1.png" alt="cap" style="height:35px; text-align:center;"></h1>
    <p align="center">
    
-      <a href="https://discord.com/users/951186023507963945" target="_blank">
-      <img src="https://i.imgur.com/CKJhTYg.png" alt="discord-icon" style="height:40px">
+<a href="https://discord.com/users/951186023507963945" target="_blank">
+    <img src="https://i.imgur.com/CKJhTYg.png" alt="discord-icon" style="height:40px">
 </a>
-</a>
+
    </p>
    
 </p>

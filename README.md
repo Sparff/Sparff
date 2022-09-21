@@ -35,3 +35,9 @@
 <p align="center">
    Click on the icon!
 </p>
+
+
+
+<p align="center">
+   <a href= "https://discord.com/users/951186023507963945"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/951186023507963945?bg=00000000" /</a>
+</p>

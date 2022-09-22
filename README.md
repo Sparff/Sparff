@@ -1,6 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=df2e47)
 
 <p align="center">
+   <a href= "https://discord.com/users/951186023507963945"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/951186023507963945?bg=00000000" /</a>
+</p>
+
+<p align="center">
    
    <img src="https://i.imgur.com/tOuZa5V.png" alt="hi-icon" style="height:200px;" align="center">
    
@@ -9,7 +13,7 @@
    <h1 align="center">Hi, I'm Sparf</h1>
    
    
-   <p align="center">
+   <p align="left">
       I have a mustache that shakes boys, breaks the jaws of daughters and sons' hearts, I have never eaten turbo gum because they did not give me.
    </p>
    
@@ -34,10 +38,4 @@
 </p>
 <p align="center">
    Click on the icon!
-</p>
-
-
-
-<p align="center">
-   <a href= "https://discord.com/users/951186023507963945"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/951186023507963945?bg=00000000" /</a>
 </p>
